@@ -1,0 +1,75 @@
+body {
+    background-color: black;
+}
+
+#navbar {
+    font-family: Helvetica;
+    background-color: black;
+    color: orangered;
+    font-size: 35px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+img {
+    width: 200px;
+}
+
+.items:hover {
+    color: white;
+}
+
+a {
+    width: 20%;
+    text-align: center;
+    text-decoration: none;
+    color:rgb(253, 78, 15);
+}
+
+h1 {
+    background-color: black;
+    color: orangered;
+    display: flex;
+    justify-content: center;
+}
+
+#description_container {
+    background-color: black;
+    color: rgb(253, 78, 15);
+    font-size: 30px;
+}
+
+#images1 {
+    display: flex;
+}
+
+#images1 a{
+    width: 50%;
+}
+
+.curly_j {
+    width: 100%;
+}
+
+.dc {
+    width: 100%;
+}
+
+#images2 {
+    display: flex;
+
+}
+
+#images2 a {
+    width: 50%;
+}
+
+.xxel {
+    width: 100%;
+}
+
+.devyn {
+    width: 100%;
+}
