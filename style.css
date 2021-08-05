@@ -14,7 +14,7 @@ body {
 
 
 img {
-    width: 200px;
+    width: 250px;
 }
 
 .items:hover {
@@ -49,11 +49,11 @@ h1 {
     width: 50%;
 }
 
-.curly_j {
+#curly_j {
     width: 100%;
 }
 
-.dc {
+#dc {
     width: 100%;
 }
 
@@ -66,10 +66,61 @@ h1 {
     width: 50%;
 }
 
-.xxel {
+#xxel {
     width: 100%;
 }
 
-.devyn {
+#kel {
+    width: 100%;
+}
+
+#images3 {
+    display: flex;
+
+}
+
+#images3 a {
+    width: 50%;
+}
+
+#melii {
+    width: 100%;
+}
+
+#scorey {
+    width: 100%;
+}
+
+#images4 {
+    display: flex;
+
+}
+
+#images4 a {
+    width: 50%;
+}
+
+#szn {
+    width: 100%;
+}
+
+#ynw {
+    width: 100%;
+}
+
+#images5 {
+    display: flex;
+
+}
+
+#images5 a {
+    width: 50%;
+}
+
+#devyn {
+    width: 100%;
+}
+
+#ysn {
     width: 100%;
 }
