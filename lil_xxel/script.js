@@ -1,7 +1,7 @@
 let xxel = {
     hometown: "Weehawken, New Jersey",
     age: 20,
-    favTracks: "LMK, Where Do We Start, Monopoly, IDK",
+    favTracks: "LMK, MNU, Where Do I Start, Monopoly with DJ Diddy, IDK (Imperfect) with R3HAB",
     rank: 7,
     ETA: "Now or Never",
     comp: "Luh Kel"

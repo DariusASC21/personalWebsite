@@ -1,10 +1,10 @@
 let kel = {
     hometown: "St. Louis, Missouri",
     age: 19,
-    favTracks: "Wrong feat. Lil Tjay, Feen feat. Trippie Redd",
+    favTracks: "Wrong feat. Lil Tjay, Feen feat. Trippie Redd, Tweakin feat. IV Jay, Y.O.U.",
     rank: 6,
     ETA: "By the end of 2022",
-    comp: "YK Osiris & Lil Tjay"
+    comp: "YK Osiris, Lil Tjay"
 };
 
 let artistInfo = document.querySelector("#info");

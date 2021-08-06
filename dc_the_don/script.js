@@ -4,7 +4,7 @@ let dc = {
     favTracks: "Wait Your Turn, Jesus Can't Save You, Rag3 Kidd, Rock Out",
     rank: 1,
     ETA: "Late 2021 - Early 2023",
-    comp: "XXXTentacion & Trippie Redd"
+    comp: "XXXTentacion, Trippie Redd"
 };
 
 let artistInfo = document.querySelector("#info");

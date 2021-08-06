@@ -34,33 +34,34 @@ h1 {
     font-size: 70px;
     color: black;
     background-color: orangered;
-    margin-left: 300px;
-    margin-right: 300px;
+    margin-left: 200px;
+    margin-right: 200px;
     margin-bottom: 0px;
-    padding: 20px;
+    padding-top: 20px;
 }
 
 #info_container {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: black;
     background-color: orangered;
-    margin-left: 300px;
-    margin-right: 300px;
+    margin-left: 200px;
+    margin-right: 200px;
     margin-bottom: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 h1 {
     text-align: center;
 }
 
-#info_container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
 #info {
     font-size: 30px;
+    padding: 50px;
+}
+
+#kel_img {
     padding: 50px;
 }
 
