@@ -1,10 +1,10 @@
 let mel = {
     hometown: "Harlem, New York",
     age: 24,
-    favTracks: "HML with A Boogie Wit Da Hoodie",
+    favTracks: "HML with A Boogie Wit Da Hoodie, Nena, No Hard Feelings",
     rank: 10,
-    ETA: "Now or Never",
-    comp: "N/A"
+    ETA: "Too hard to tell",
+    comp: "No one"
 };
 
 let artistInfo = document.querySelector("#info");

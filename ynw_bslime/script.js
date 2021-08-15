@@ -4,7 +4,7 @@ let ynw = {
     favTracks: "Hot Sauce feat. Lil Tjay, Slime Dreams, Just Want You, Nobody Else",
     rank: 5,
     ETA: "Late 2022 - Early 2024",
-    comp: "Young Thug, Lil Uzi Vert, YNW Melly"
+    comp: "Young Thug, Lil Uzi Vert, Juice Wrld, YNW Melly"
 };
 
 let artistInfo = document.querySelector("#info");

@@ -4,7 +4,7 @@ let xxel = {
     favTracks: "LMK, MNU, Where Do I Start, Monopoly with DJ Diddy, IDK (Imperfect) with R3HAB",
     rank: 8,
     ETA: "Now or Never",
-    comp: "Pop-oriented Luh Kel"
+    comp: "Pop-Oriented Luh Kel"
 };
 
 let artistInfo = document.querySelector("#info");

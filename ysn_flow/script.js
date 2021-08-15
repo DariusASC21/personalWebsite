@@ -2,7 +2,7 @@ let ysn = {
     hometown: "Cleveland, Ohio",
     age: 17,
     favTracks: "Bad Vibe feat. Lil Tjay, Illegal Guns, Roll Off, Back For My Ends feat. Melvoni",
-    rank: 5,
+    rank: 4,
     ETA: "2022-2023",
     comp: "Lil Baby, Lil Tjay"
 };
