@@ -2,9 +2,9 @@ let xxel = {
     hometown: "Weehawken, New Jersey",
     age: 20,
     favTracks: "LMK, MNU, Where Do I Start, Monopoly with DJ Diddy, IDK (Imperfect) with R3HAB",
-    rank: 7,
+    rank: 8,
     ETA: "Now or Never",
-    comp: "Luh Kel"
+    comp: "Pop-oriented Luh Kel"
 };
 
 let artistInfo = document.querySelector("#info");
